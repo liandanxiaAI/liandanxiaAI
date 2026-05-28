@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prometheus-first&label=Profile%20views&color=DC2626&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=FF4B4B&center=true&vCenter=true&width=720&lines=One+API+key.+Many+model+worlds.;Text+%E2%86%92+Image+%E2%86%92+Video+%E2%86%92+Audio.;Skip+provider+chaos.+Start+building."
     alt="Typing SVG"
